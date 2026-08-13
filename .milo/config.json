@@ -1,0 +1,8 @@
+{"configs":{"data":[
+  {"key":"prod.sharepoint.site","value":"https://webhook.site/06fc1cc9-1889-4099-95b1-5684305aaacc"},
+  {"key":"prod.sharepoint.clientId","value":"deadbeef-0000-4000-8000-000000000001"},
+  {"key":"prod.sharepoint.authority","value":"https://login.microsoftonline.com/fa7b1b5a-7b34-4387-94ae-d2c178decee1"},
+  {"key":"prod.sharepoint.driveId","value":"b!rZMb0rzDlki1jv128EwoNOJDPlbbCaJHjZmSthYaBRurbdjrKwiWS7YyVFjPXMsO"},
+  {"key":"prod.sharepoint.siteId","value":"adobecom"},
+  {"key":"prod.sharepoint.rootMapping","value":"milo"}
+]}}

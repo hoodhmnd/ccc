@@ -1,4 +1,5 @@
 .*
+!.milo/
 *.md
 karma.config.js
 LICENSE
